@@ -9,11 +9,6 @@ let input = document.getElementById("input") ;
 let btn = document.getElementById("btn") ;
 let soundTrack = document.getElementById("soundTrack");
 
-// play the soundTrack
-function autoPlay() {
-    soundTrack.load;
-    soundTrack.play();
-}
 
 // change the num1 and num2 randomly(between 1 and 10)
 function setNum() {
